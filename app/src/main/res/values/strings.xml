@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProbniProjekat</string>
+    <string name="dugme">Start</string>
+    <string name="dugme2">LOL</string>
+    <string name="labela">Tekst za labelu</string>
+    <string name="labela2">Tekst za labelu2</string>
+</resources>
